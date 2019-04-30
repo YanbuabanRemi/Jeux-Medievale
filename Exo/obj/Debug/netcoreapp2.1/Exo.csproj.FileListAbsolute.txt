@@ -9,3 +9,14 @@ C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.
 C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.pdb
 C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.dll
 C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\bin\Debug\netcoreapp2.1\Exo.deps.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\bin\Debug\netcoreapp2.1\Exo.runtimeconfig.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\bin\Debug\netcoreapp2.1\Exo.runtimeconfig.dev.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\bin\Debug\netcoreapp2.1\Exo.dll
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\bin\Debug\netcoreapp2.1\Exo.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.csprojAssemblyReference.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.csproj.CoreCompileInputs.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.AssemblyInfoInputs.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.AssemblyInfo.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.dll
+C:\Users\Rémi Yanbuaban\Documents\Cours\Projet jeux\tp-medievale\Exo\obj\Debug\netcoreapp2.1\Exo.pdb

@@ -8,6 +8,8 @@ namespace Exo.Classes
     {
         public List<Roturier> ListRoturier = new List<Roturier>();
 
+        int impot;
+
         public Village(string n) : base(n)
         {
             Roturier r = new Roturier();
@@ -18,16 +20,18 @@ namespace Exo.Classes
         {
             foreach(Roturier r in ListRoturier)
             {
-                bool chance = r.ChanceToDie();
-                if (chance = true)
-                {
-                    ListRoturier.Remove(r);
-                }
-                else
-                {
-                    r.Vieillir();
-                }
+                r.Vieillir();                             
             }
+        }
+
+        
+        public int PreleverImpot()
+        {          
+            foreach(Roturier r in ListRoturier)
+            {
+                impot += r.PreleverImpotRoturier();
+            }
+            return impot;
         }
     }
 }

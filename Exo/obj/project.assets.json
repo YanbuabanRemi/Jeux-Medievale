@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrateur\\.nuget\\packages\\": {},
+    "C:\\Users\\Rémi Yanbuaban\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\Medievale\\Exo\\Exo\\Exo.csproj",
+      "projectUniqueName": "C:\\Users\\Rémi Yanbuaban\\Documents\\Cours\\Projet jeux\\tp-medievale\\Exo\\Exo.csproj",
       "projectName": "Exo",
-      "projectPath": "C:\\Users\\Administrateur\\Documents\\Medievale\\Exo\\Exo\\Exo.csproj",
-      "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\Documents\\Medievale\\Exo\\Exo\\obj\\",
+      "projectPath": "C:\\Users\\Rémi Yanbuaban\\Documents\\Cours\\Projet jeux\\tp-medievale\\Exo\\Exo.csproj",
+      "packagesPath": "C:\\Users\\Rémi Yanbuaban\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rémi Yanbuaban\\Documents\\Cours\\Projet jeux\\tp-medievale\\Exo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rémi Yanbuaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

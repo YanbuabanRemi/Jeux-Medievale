@@ -32,13 +32,21 @@ namespace Exo.Classes
         {
                 int gain = RandomNumber(10, 40);
                 money = money + money * gain / 100;
-                Console.WriteLine(money);
+                //Console.WriteLine(money);
         }
 
         public int RandomNumber(int min, int max)
         {
             Random random = new Random();
             return random.Next(min, max);
+        }
+
+        public int PreleverImpotRoturier()
+        {
+            int impot;
+            impot = money / 2;
+            money -= impot;
+            return impot;
         }
     }
 }
