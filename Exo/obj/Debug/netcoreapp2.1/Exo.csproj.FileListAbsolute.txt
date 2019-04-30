@@ -1,0 +1,11 @@
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.deps.json
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.runtimeconfig.json
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.runtimeconfig.dev.json
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.dll
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\bin\Debug\netcoreapp2.1\Exo.pdb
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.dll
+C:\Users\Administrateur\Documents\Medievale\Exo\Exo\obj\Debug\netcoreapp2.1\Exo.pdb
