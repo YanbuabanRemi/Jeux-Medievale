@@ -32,6 +32,10 @@ namespace Exo.Classes
         public void Vieillir()
         {
             annee++;
+            foreach(Village v in listeVillage)
+            {
+                v.Vieillir();
+            }
         }
 
         public void AfficherVillage()
