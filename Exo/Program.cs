@@ -9,6 +9,7 @@ namespace Exo
     class Program
     {
         public static List<Jeux> listeJeux = new List<Jeux>();
+        
 
         static void Main(string[] args)
         {
@@ -54,12 +55,12 @@ namespace Exo
             StreamWriter writer = new StreamWriter("Jeux.txt");
             writer.WriteLine(JsonConvert.SerializeObject(listeJeux));
             writer.Close();
-            j.JeuxMenu();
+            j.JeuxMenu(j.Royaume);
         }
 
         static void ContinuGame()
         {
-            Console.WriteLine("Quel partie souhaitez-vous continuer ?");
+            
             List<Jeux> listeJeuxFromJson = new List<Jeux>();
             if (File.Exists("Jeux.txt"))
             {
@@ -67,15 +68,21 @@ namespace Exo
                 listeJeuxFromJson = JsonConvert.DeserializeObject<List<Jeux>>(reader.ReadToEnd());
                 reader.Close();
             }
+            else
+            {
+                Console.WriteLine("Il n'y a aucune partie de sauvegarder");
+            }
+            
             foreach(Jeux j in listeJeuxFromJson)
             {
-                Console.WriteLine(j.Nom);
+                Console.WriteLine("\nPartie de : " + j.Nom + "\n");
             }
+            Console.WriteLine("Quel partie souhaitez-vous continuer ?");
             string choixGame = Console.ReadLine();
             foreach (Jeux j in listeJeuxFromJson)
                 {
                 if (choixGame == j.Nom)
-                    j.JeuxMenu();
+                    j.JeuxMenu(j.Royaume);
                 }
         }
     }
