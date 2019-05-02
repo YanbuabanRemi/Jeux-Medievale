@@ -21,15 +21,18 @@ namespace Exo.Classes
         public Royaume(string nom)
         {
             this.nom = nom;
-            Somme = 500;
+            Somme = 400;
             annee = 1400;
+            
         }
 
         public override string ToString()
         {
-            return "Royaume : " + Nom + " \nIl vous reste " + Somme + " pièces d'or " + "\nAnnée : " + annee + "\nVillages :" + listeVillage.Count + "\nPaysans :" + listeVillageois.Count;
+            return "Royaume : " + Nom + " \nIl vous reste " + Somme + " PO " + "\nAnnée : " + annee + "\nVillages :" + listeVillage.Count + "\nPaysans :" + listeVillageois.Count;
             
         }
+
+        
 
         public void Vieillir()
         {

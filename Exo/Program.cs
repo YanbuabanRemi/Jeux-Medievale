@@ -9,8 +9,8 @@ namespace Exo
         {
             Console.BackgroundColor = ConsoleColor.Gray;
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.WriteLine("------------------Bienvenue sur le super jeux Médiévale------------------");
-            Console.WriteLine("--------------------Quel est le nom de votre Royaume ?-------------------");
+            Console.WriteLine("-----------------------------------------Bienvenue sur le super jeux Médiévale---------------------------------\n\n");
+            Console.WriteLine("-------------------------------------------Quel est le nom de votre Royaume ?----------------------------------\n");
             Royaume R1 = new Royaume(Console.ReadLine());
 
             Console.Clear();
@@ -21,7 +21,7 @@ namespace Exo
             {
                 //Console.Clear();
                 Console.WriteLine("---------------------------------Menu-------------------------------------\n");
-                Console.WriteLine("1 - Acheter un village\n2 - Acheter un paysan\n3 - Prélever les impôts\n4 - Fin de Tour\n0 - Quitter le jeux\n");
+                Console.WriteLine("1 - Acheter un village (350PO)\n2 - Acheter un paysan (50PO)\n3 - Prélever les impôts\n4 - Fin de Tour\n0 - Quitter le jeux\n");
                 Console.WriteLine(R1.ToString() + "\n");
                 choix = Convert.ToInt32(Console.ReadLine());
                 switch (choix)
